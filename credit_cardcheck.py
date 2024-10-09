@@ -49,7 +49,7 @@ for _ in range(int(input())):
     else:
         hyphen_check = True
         length_check = contain_16(text)
-    print("preethi")
+    print("preethi sivakumar")
     # Validate the credit card number
     if startwith_456 and digit_check and hyphen_check and consecutive_check and length_check:
         print("Valid")
